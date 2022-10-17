@@ -1,0 +1,306 @@
+{
+    "categorySummaries": [
+      { "category": "ORDER",
+        "totalAmount": {
+          "value": 2351.75,
+          "currency": "USD"
+        },
+        "debitAmount": {
+          "value": 2351.75,
+          "currency": "USD"
+        },
+        "creditAmount": {
+          "value": 2351.75,
+          "currency": "USD"
+        }
+      },
+      {"category": "REVERSE",
+        "totalAmount": {
+          "value": -5300,
+          "currency": "USD"
+        },
+        "debitAmount": {
+          "value": -6000,
+          "currency": "USD"
+        },
+        "creditAmount": {
+          "value": 700,
+          "currency": "USD"
+        },
+        "subGroups": [
+          {
+            "category": "REFUND",
+            "totalAmount": {
+              "value": -1600,
+              "currency": "USD"
+            },
+            "debitAmount": {
+              "value": -2000,
+              "currency": "USD"
+            },
+            "creditAmount": {
+              "value": 400,
+              "currency": "USD"
+            }
+          },
+          {
+            "category": "CLAIM",
+            "totalAmount": {
+              "value": -2800,
+              "currency": "USD"
+            },
+            "debitAmount": {
+              "value": -3000,
+              "currency": "USD"
+            },
+            "creditAmount": {
+              "value": 200,
+              "currency": "USD"
+            }
+          },
+          {
+            "category": "PAYMENT_DISPUTE",
+            "totalAmount": {
+              "value": -900,
+              "currency": "USD"
+            },
+            "debitAmount": {
+              "value": -1000,
+              "currency": "USD"
+            },
+            "creditAmount": {
+              "value": 100,
+              "currency": "USD"
+            }
+          }
+        ]
+      },
+      {"category": "FUNDS_INOUT",
+        "totalAmount": {
+          "value": -895,
+          "currency": "USD"
+        },
+        "debitAmount": {
+          "value": 1000,
+          "currency": "USD"
+        },
+        "creditAmount": {
+          "value": 105,
+          "currency": "USD"
+        },
+        "subGroups": [
+          {
+            "category": "PAYOUT",
+            "totalAmount": {
+              "value": -995,
+              "currency": "USD"
+            },
+            "debitAmount": {
+              "value": 1000,
+              "currency": "USD"
+            },
+            "creditAmount": {
+              "value": 5,
+              "currency": "USD"
+            }
+          },
+          {
+            "category": "TRANSFER",
+            "totalAmount": {
+              "value": 100,
+              "currency": "USD"
+            },
+            "debitAmount": {
+              "value": 0,
+              "currency": "USD"
+            },
+            "creditAmount": {
+              "value": 100,
+              "currency": "USD"
+            }
+          }
+        ]
+      },
+      {"category": "EXPENSE",
+        "totalAmount": {
+          "value": -330,
+          "currency": "USD"
+        },
+        "debitAmount": {
+          "value": 350,
+          "currency": "USD"
+        },
+        "creditAmount": {
+          "value": 20,
+          "currency": "USD"
+        },
+        "subGroups": [
+          {
+            "category": "FEES",
+            "totalAmount": {
+              "value": -250,
+              "currency": "USD"
+            },
+            "debitAmount": {
+              "value": 250,
+              "currency": "USD"
+            },
+            "creditAmount": {
+              "value": 0,
+              "currency": "USD"
+            },
+            "subGroups": [
+              {
+                "category": "TRANSACTION_FEES",
+                "totalAmount": {
+                  "value": -50,
+                  "currency": "USD"
+                },
+                "debitAmount": {
+                  "value": 50,
+                  "currency": "USD"
+                },
+                "creditAmount": {
+                  "value": 0,
+                  "currency": "USD"
+                }
+              },
+              {
+                "category": "PROMOTED_LISTING_FEES",
+                "totalAmount": {
+                  "value": -50,
+                  "currency": "USD"
+                },
+                "debitAmount": {
+                  "value": 50,
+                  "currency": "USD"
+                },
+                "creditAmount": {
+                  "value": 0,
+                  "currency": "USD"
+                }
+              },
+              {
+                "category": "INSERTION_FEES",
+                "totalAmount": {
+                  "value": -50,
+                  "currency": "USD"
+                },
+                "debitAmount": {
+                  "value": 50,
+                  "currency": "USD"
+                },
+                "creditAmount": {
+                  "value": 0,
+                  "currency": "USD"
+                }
+              },
+              {
+                "category": "ADVANCED_LISTING_UPGRADE_FEES",
+                "totalAmount": {
+                  "value": -50,
+                  "currency": "USD"
+                },
+                "debitAmount": {
+                  "value": 50,
+                  "currency": "USD"
+                },
+                "creditAmount": {
+                  "value": 0,
+                  "currency": "USD"
+                }
+              },
+              {
+                "category": "OTHER_FEES",
+                "totalAmount": {
+                  "value": -50,
+                  "currency": "USD"
+                },
+                "debitAmount": {
+                  "value": 50,
+                  "currency": "USD"
+                },
+                "creditAmount": {
+                  "value": 0,
+                  "currency": "USD"
+                }
+              }
+            ]
+          },
+          {
+            "category": "SHIPPING_LABEL",
+            "totalAmount": {
+              "value": -80,
+              "currency": "USD"
+            },
+            "debitAmount": {
+              "value": 100,
+              "currency": "USD"
+            },
+            "creditAmount": {
+              "value": 20,
+              "currency": "USD"
+            }
+          }
+        ]
+      },
+      {"category": "ADJUSTMENT",
+        "totalAmount": {
+          "value": -250,
+          "currency": "USD"
+        },
+        "debitAmount": {
+          "value": -50,
+          "currency": "USD"
+        },
+        "creditAmount": {
+          "value": 300,
+          "currency": "USD"
+        }
+      },
+     
+      {"category": "PURCHASE",
+      "totalAmount": {
+        "value": -150,
+        "currency": "USD"
+      },
+      "debitAmount": {
+        "value": -150,
+        "currency": "USD"
+      },
+      "creditAmount": {
+        "value": 0,
+        "currency": "USD"
+      }
+    },
+      {"category": "REPAYMENT",
+        "totalAmount": {
+          "value": -200,
+          "currency": "USD"
+        },
+        "debitAmount": {
+          "value": -200,
+          "currency": "USD"
+        },
+        "creditAmount": {
+          "value": 0,
+          "currency": "USD"
+        }
+      },
+      {"category": "TAX",
+        "totalAmount": {
+          "value": -200,
+          "currency": "USD"
+        },
+        "debitAmount": {
+          "value": -200,
+          "currency": "USD"
+        },
+        "creditAmount": {
+          "value": 0,
+          "currency": "USD"
+        }
+      }
+
+    ]
+  }
